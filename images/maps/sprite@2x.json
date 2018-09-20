@@ -1,0 +1,72 @@
+{
+  "att": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 0,
+    "y": 0
+  },
+  "default": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 48,
+    "y": 0
+  },
+  "dump": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 0,
+    "y": 48
+  },
+  "gas": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 48,
+    "y": 48
+  },
+  "groceries": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 96,
+    "y": 0
+  },
+  "propane": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 144,
+    "y": 0
+  },
+  "sprint": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 96,
+    "y": 48
+  },
+  "tmobile": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 144,
+    "y": 48
+  },
+  "verizon": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 0,
+    "y": 96
+  },
+  "water": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 48,
+    "y": 96
+  }
+}

@@ -1,0 +1,5 @@
+npm install -g @mapbox/spritezero-cli
+
+in images/maps dir, run
+spritezero sprite ./sprite_svgs
+spritezero sprite@2x ./sprite_svgs --retina
