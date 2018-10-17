@@ -34,39 +34,46 @@
     "x": 96,
     "y": 0
   },
-  "propane": {
+  "low_clearance": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 144,
     "y": 0
   },
-  "sprint": {
+  "propane": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 96,
     "y": 48
   },
-  "tmobile": {
+  "sprint": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 144,
     "y": 48
   },
-  "verizon": {
+  "tmobile": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 0,
     "y": 96
   },
-  "water": {
+  "verizon": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 48,
+    "y": 96
+  },
+  "water": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 96,
     "y": 96
   }
 }
