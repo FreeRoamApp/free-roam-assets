@@ -6,74 +6,95 @@
     "x": 0,
     "y": 0
   },
-  "default": {
+  "casino": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 48,
     "y": 0
   },
-  "dump": {
+  "default": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 0,
+    "y": 48
+  },
+  "dump": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 48,
     "y": 48
   },
   "gas": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 48,
-    "y": 48
+    "x": 96,
+    "y": 0
   },
   "groceries": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 96,
+    "x": 144,
     "y": 0
   },
   "low_clearance": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 144,
-    "y": 0
+    "x": 96,
+    "y": 48
   },
   "propane": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 96,
-    "y": 48
-  },
-  "sprint": {
-    "height": 48,
-    "pixelRatio": 2,
-    "width": 48,
     "x": 144,
     "y": 48
   },
-  "tmobile": {
+  "rest_area": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 0,
     "y": 96
   },
-  "verizon": {
+  "sprint": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 48,
     "y": 96
   },
-  "water": {
+  "tmobile": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 96,
     "y": 96
+  },
+  "verizon": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 144,
+    "y": 96
+  },
+  "walmart": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 0,
+    "y": 144
+  },
+  "water": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 48,
+    "y": 144
   }
 }
