@@ -1,5 +1,5 @@
 npm install -g @mapbox/spritezero-cli
 
-in images/maps dir, run
-spritezero sprite ./sprite_svgs
-spritezero sprite@2x ./sprite_svgs --retina
+in images/maps dir, run (update w/ cur date to avoid cache issues)
+spritezero sprite_2018_10_22 ./sprite_svgs
+spritezero sprite_2018_10_22@2x ./sprite_svgs --retina
