@@ -76,6 +76,90 @@
     "x": 48,
     "y": 48
   },
+  "us-highway_1": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 17,
+    "x": 48,
+    "y": 72
+  },
+  "us-highway_2": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 17,
+    "x": 65,
+    "y": 72
+  },
+  "us-highway_3": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 21,
+    "x": 96,
+    "y": 0
+  },
+  "us-interstate_1": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 17,
+    "x": 117,
+    "y": 0
+  },
+  "us-interstate_2": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 17,
+    "x": 134,
+    "y": 0
+  },
+  "us-interstate_3": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 21,
+    "x": 151,
+    "y": 0
+  },
+  "us-state_1": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 17,
+    "x": 172,
+    "y": 0
+  },
+  "us-state_2": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 22,
+    "x": 96,
+    "y": 24
+  },
+  "us-state_3": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 27,
+    "x": 118,
+    "y": 24
+  },
+  "us-state_4": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 32,
+    "x": 145,
+    "y": 24
+  },
+  "us-state_5": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 37,
+    "x": 96,
+    "y": 48
+  },
+  "us-state_6": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 42,
+    "x": 133,
+    "y": 48
+  },
   "verizon": {
     "height": 24,
     "pixelRatio": 1,
