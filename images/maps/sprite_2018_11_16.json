@@ -10,15 +10,15 @@
     "height": 8,
     "pixelRatio": 1,
     "width": 8,
-    "x": 183,
+    "x": 173,
     "y": 24
   },
   "blm_bg": {
     "height": 8,
     "pixelRatio": 1,
     "width": 8,
-    "x": 165,
-    "y": 48
+    "x": 181,
+    "y": 24
   },
   "casino": {
     "height": 24,
@@ -62,137 +62,144 @@
     "x": 48,
     "y": 24
   },
-  "propane": {
+  "other": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 72,
     "y": 24
   },
-  "rest_area": {
+  "propane": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 0,
     "y": 48
   },
-  "reviewless": {
+  "rest_area": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 24,
     "y": 48
   },
-  "sprint": {
+  "reviewless": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 48,
     "y": 48
   },
-  "sprint_bg": {
-    "height": 8,
-    "pixelRatio": 1,
-    "width": 8,
-    "x": 173,
-    "y": 48
-  },
-  "tmobile": {
+  "sprint": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 72,
     "y": 48
   },
-  "tmobile_bg": {
+  "sprint_bg": {
     "height": 8,
     "pixelRatio": 1,
     "width": 8,
-    "x": 181,
-    "y": 48
+    "x": 138,
+    "y": 72
   },
-  "truck_stop": {
+  "tmobile": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 0,
     "y": 72
   },
+  "tmobile_bg": {
+    "height": 8,
+    "pixelRatio": 1,
+    "width": 8,
+    "x": 146,
+    "y": 72
+  },
+  "truck_stop": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 24,
+    "y": 72
+  },
   "us-highway_1": {
     "height": 17,
     "pixelRatio": 1,
     "width": 17,
-    "x": 96,
+    "x": 120,
     "y": 0
   },
   "us-highway_2": {
     "height": 17,
     "pixelRatio": 1,
     "width": 17,
-    "x": 113,
+    "x": 137,
     "y": 0
   },
   "us-highway_3": {
     "height": 17,
     "pixelRatio": 1,
     "width": 21,
-    "x": 130,
+    "x": 154,
     "y": 0
   },
   "us-interstate_1": {
     "height": 17,
     "pixelRatio": 1,
     "width": 17,
-    "x": 151,
+    "x": 175,
     "y": 0
   },
   "us-interstate_2": {
     "height": 17,
     "pixelRatio": 1,
     "width": 17,
-    "x": 168,
-    "y": 0
+    "x": 96,
+    "y": 24
   },
   "us-interstate_3": {
     "height": 17,
     "pixelRatio": 1,
     "width": 21,
-    "x": 96,
+    "x": 113,
     "y": 24
   },
   "us-state_1": {
     "height": 14,
     "pixelRatio": 1,
     "width": 17,
-    "x": 117,
+    "x": 134,
     "y": 24
   },
   "us-state_2": {
     "height": 14,
     "pixelRatio": 1,
     "width": 22,
-    "x": 134,
+    "x": 151,
     "y": 24
   },
   "us-state_3": {
     "height": 14,
     "pixelRatio": 1,
     "width": 27,
-    "x": 156,
-    "y": 24
+    "x": 96,
+    "y": 48
   },
   "us-state_4": {
     "height": 14,
     "pixelRatio": 1,
     "width": 32,
-    "x": 96,
+    "x": 123,
     "y": 48
   },
   "us-state_5": {
     "height": 14,
     "pixelRatio": 1,
     "width": 37,
-    "x": 128,
+    "x": 155,
     "y": 48
   },
   "us-state_6": {
@@ -206,35 +213,35 @@
     "height": 8,
     "pixelRatio": 1,
     "width": 8,
-    "x": 138,
+    "x": 154,
     "y": 72
   },
   "verizon": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
-    "x": 24,
+    "x": 48,
     "y": 72
   },
   "verizon_bg": {
     "height": 8,
     "pixelRatio": 1,
     "width": 8,
-    "x": 146,
+    "x": 162,
     "y": 72
   },
   "walmart": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
-    "x": 48,
+    "x": 72,
     "y": 72
   },
   "water": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
-    "x": 72,
-    "y": 72
+    "x": 96,
+    "y": 0
   }
 }
