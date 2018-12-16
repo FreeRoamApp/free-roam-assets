@@ -1,9 +1,16 @@
 {
-  "att": {
+  "arrow": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 0,
+    "y": 0
+  },
+  "att": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 48,
     "y": 0
   },
   "att_bg": {
@@ -24,45 +31,38 @@
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 48,
-    "y": 0
+    "x": 0,
+    "y": 48
   },
   "default": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 0,
+    "x": 48,
     "y": 48
   },
   "dump": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 48,
-    "y": 48
-  },
-  "gas": {
-    "height": 48,
-    "pixelRatio": 2,
-    "width": 48,
     "x": 96,
     "y": 0
   },
-  "groceries": {
+  "gas": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 144,
     "y": 0
   },
-  "low_clearance": {
+  "groceries": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 96,
     "y": 48
   },
-  "navigation": {
+  "low_clearance": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
