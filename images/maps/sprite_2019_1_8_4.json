@@ -3,7 +3,7 @@
     "height": 16,
     "pixelRatio": 1,
     "width": 16,
-    "x": 134,
+    "x": 172,
     "y": 48
   },
   "att": {
@@ -17,14 +17,14 @@
     "height": 8,
     "pixelRatio": 1,
     "width": 8,
-    "x": 42,
+    "x": 111,
     "y": 96
   },
   "blm_bg": {
     "height": 8,
     "pixelRatio": 1,
     "width": 8,
-    "x": 50,
+    "x": 119,
     "y": 96
   },
   "casino": {
@@ -136,7 +136,7 @@
     "height": 8,
     "pixelRatio": 1,
     "width": 8,
-    "x": 58,
+    "x": 127,
     "y": 96
   },
   "tmobile": {
@@ -150,7 +150,7 @@
     "height": 8,
     "pixelRatio": 1,
     "width": 8,
-    "x": 66,
+    "x": 135,
     "y": 96
   },
   "truck_stop": {
@@ -160,123 +160,130 @@
     "x": 120,
     "y": 0
   },
-  "us-highway_1": {
-    "height": 17,
-    "pixelRatio": 1,
-    "width": 17,
-    "x": 120,
-    "y": 24
-  },
-  "us-highway_2": {
-    "height": 17,
-    "pixelRatio": 1,
-    "width": 17,
-    "x": 137,
-    "y": 24
-  },
-  "us-highway_3": {
-    "height": 17,
-    "pixelRatio": 1,
-    "width": 21,
-    "x": 154,
-    "y": 24
-  },
-  "us-interstate_1": {
-    "height": 17,
-    "pixelRatio": 1,
-    "width": 17,
-    "x": 175,
-    "y": 24
-  },
-  "us-interstate_2": {
-    "height": 17,
-    "pixelRatio": 1,
-    "width": 17,
-    "x": 96,
-    "y": 48
-  },
-  "us-interstate_3": {
-    "height": 17,
-    "pixelRatio": 1,
-    "width": 21,
-    "x": 113,
-    "y": 48
-  },
-  "us-state_1": {
-    "height": 14,
-    "pixelRatio": 1,
-    "width": 17,
-    "x": 150,
-    "y": 48
-  },
-  "us-state_2": {
-    "height": 14,
-    "pixelRatio": 1,
-    "width": 22,
-    "x": 167,
-    "y": 48
-  },
-  "us-state_3": {
-    "height": 14,
-    "pixelRatio": 1,
-    "width": 27,
-    "x": 96,
-    "y": 72
-  },
-  "us-state_4": {
-    "height": 14,
-    "pixelRatio": 1,
-    "width": 32,
-    "x": 123,
-    "y": 72
-  },
-  "us-state_5": {
-    "height": 14,
-    "pixelRatio": 1,
-    "width": 37,
-    "x": 155,
-    "y": 72
-  },
-  "us-state_6": {
-    "height": 14,
-    "pixelRatio": 1,
-    "width": 42,
-    "x": 0,
-    "y": 96
-  },
-  "usfs_bg": {
-    "height": 8,
-    "pixelRatio": 1,
-    "width": 8,
-    "x": 74,
-    "y": 96
-  },
-  "verizon": {
+  "unknown_price": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 144,
     "y": 0
   },
-  "verizon_bg": {
+  "us-highway_1": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 17,
+    "x": 144,
+    "y": 24
+  },
+  "us-highway_2": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 17,
+    "x": 161,
+    "y": 24
+  },
+  "us-highway_3": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 21,
+    "x": 96,
+    "y": 48
+  },
+  "us-interstate_1": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 17,
+    "x": 117,
+    "y": 48
+  },
+  "us-interstate_2": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 17,
+    "x": 134,
+    "y": 48
+  },
+  "us-interstate_3": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 21,
+    "x": 151,
+    "y": 48
+  },
+  "us-state_1": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 17,
+    "x": 96,
+    "y": 72
+  },
+  "us-state_2": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 22,
+    "x": 113,
+    "y": 72
+  },
+  "us-state_3": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 27,
+    "x": 135,
+    "y": 72
+  },
+  "us-state_4": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 32,
+    "x": 0,
+    "y": 96
+  },
+  "us-state_5": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 37,
+    "x": 32,
+    "y": 96
+  },
+  "us-state_6": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 42,
+    "x": 69,
+    "y": 96
+  },
+  "usfs_bg": {
     "height": 8,
     "pixelRatio": 1,
     "width": 8,
-    "x": 82,
+    "x": 143,
     "y": 96
   },
-  "walmart": {
+  "verizon": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 168,
     "y": 0
   },
-  "water": {
+  "verizon_bg": {
+    "height": 8,
+    "pixelRatio": 1,
+    "width": 8,
+    "x": 151,
+    "y": 96
+  },
+  "walmart": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 96,
+    "y": 24
+  },
+  "water": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 120,
     "y": 24
   }
 }
