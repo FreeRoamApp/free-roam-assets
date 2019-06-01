@@ -3,7 +3,7 @@
     "height": 32,
     "pixelRatio": 2,
     "width": 32,
-    "x": 268,
+    "x": 344,
     "y": 144
   },
   "att": {
@@ -17,15 +17,15 @@
     "height": 16,
     "pixelRatio": 2,
     "width": 16,
-    "x": 276,
+    "x": 354,
     "y": 192
   },
   "blm_bg": {
     "height": 16,
     "pixelRatio": 2,
     "width": 16,
-    "x": 292,
-    "y": 192
+    "x": 356,
+    "y": 96
   },
   "casino": {
     "height": 48,
@@ -34,277 +34,284 @@
     "x": 48,
     "y": 0
   },
-  "default": {
+  "cracker_barrel": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 0,
+    "y": 48
+  },
+  "default": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 48,
     "y": 48
   },
   "dump": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 48,
-    "y": 48
+    "x": 96,
+    "y": 0
   },
   "empty": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 96,
+    "x": 144,
     "y": 0
   },
   "free": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 144,
-    "y": 0
+    "x": 96,
+    "y": 48
   },
   "free_reviewless": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 96,
+    "x": 144,
     "y": 48
   },
   "gas": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 144,
-    "y": 48
+    "x": 0,
+    "y": 96
   },
   "groceries": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 0,
+    "x": 48,
     "y": 96
   },
   "low_clearance": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 48,
+    "x": 96,
     "y": 96
   },
   "other": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 96,
+    "x": 144,
     "y": 96
   },
   "paid": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 144,
-    "y": 96
-  },
-  "paid_reviewless": {
-    "height": 48,
-    "pixelRatio": 2,
-    "width": 48,
     "x": 0,
     "y": 144
   },
-  "propane": {
+  "paid_reviewless": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 48,
     "y": 144
   },
-  "recycle": {
+  "propane": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 96,
     "y": 144
   },
-  "rest_area": {
+  "recycle": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 144,
     "y": 144
   },
-  "search": {
+  "rest_area": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 192,
+    "y": 0
+  },
+  "search": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 240,
     "y": 0
   },
   "shower": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 240,
+    "x": 288,
     "y": 0
   },
   "sprint": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 288,
+    "x": 336,
     "y": 0
   },
   "sprint_bg": {
     "height": 16,
     "pixelRatio": 2,
     "width": 16,
-    "x": 308,
-    "y": 192
+    "x": 0,
+    "y": 220
   },
   "tmobile": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 336,
-    "y": 0
+    "x": 192,
+    "y": 48
   },
   "tmobile_bg": {
     "height": 16,
     "pixelRatio": 2,
     "width": 16,
-    "x": 324,
-    "y": 192
+    "x": 16,
+    "y": 220
   },
   "trash": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 192,
+    "x": 240,
     "y": 48
   },
   "truck_stop": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 240,
+    "x": 288,
     "y": 48
   },
   "us-highway_1": {
     "height": 34,
     "pixelRatio": 2,
     "width": 34,
-    "x": 240,
+    "x": 288,
     "y": 96
   },
   "us-highway_2": {
     "height": 34,
     "pixelRatio": 2,
     "width": 34,
-    "x": 274,
+    "x": 322,
     "y": 96
   },
   "us-highway_3": {
     "height": 34,
     "pixelRatio": 2,
     "width": 42,
-    "x": 308,
-    "y": 96
+    "x": 192,
+    "y": 144
   },
   "us-interstate_1": {
     "height": 34,
     "pixelRatio": 2,
     "width": 34,
-    "x": 350,
-    "y": 96
+    "x": 234,
+    "y": 144
   },
   "us-interstate_2": {
     "height": 34,
     "pixelRatio": 2,
     "width": 34,
-    "x": 192,
+    "x": 268,
     "y": 144
   },
   "us-interstate_3": {
     "height": 34,
     "pixelRatio": 2,
     "width": 42,
-    "x": 226,
+    "x": 302,
     "y": 144
   },
   "us-state_1": {
     "height": 28,
     "pixelRatio": 2,
     "width": 34,
-    "x": 300,
-    "y": 144
+    "x": 0,
+    "y": 192
   },
   "us-state_2": {
     "height": 28,
     "pixelRatio": 2,
     "width": 44,
-    "x": 334,
-    "y": 144
+    "x": 34,
+    "y": 192
   },
   "us-state_3": {
     "height": 28,
     "pixelRatio": 2,
     "width": 54,
-    "x": 0,
+    "x": 78,
     "y": 192
   },
   "us-state_4": {
     "height": 28,
     "pixelRatio": 2,
     "width": 64,
-    "x": 54,
+    "x": 132,
     "y": 192
   },
   "us-state_5": {
     "height": 28,
     "pixelRatio": 2,
     "width": 74,
-    "x": 118,
+    "x": 196,
     "y": 192
   },
   "us-state_6": {
     "height": 28,
     "pixelRatio": 2,
     "width": 84,
-    "x": 192,
+    "x": 270,
     "y": 192
   },
   "usfs_bg": {
     "height": 16,
     "pixelRatio": 2,
     "width": 16,
-    "x": 340,
-    "y": 192
+    "x": 32,
+    "y": 220
   },
   "verizon": {
-    "height": 48,
-    "pixelRatio": 2,
-    "width": 48,
-    "x": 288,
-    "y": 48
-  },
-  "verizon_bg": {
-    "height": 16,
-    "pixelRatio": 2,
-    "width": 16,
-    "x": 356,
-    "y": 192
-  },
-  "walmart": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 336,
     "y": 48
   },
-  "water": {
+  "verizon_bg": {
+    "height": 16,
+    "pixelRatio": 2,
+    "width": 16,
+    "x": 48,
+    "y": 220
+  },
+  "walmart": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 192,
+    "y": 96
+  },
+  "water": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 240,
     "y": 96
   }
 }
