@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="53px" viewBox="0 0 54 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>plant_icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Roam-with-care" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tablet---Roam-with-care" transform="translate(-318.000000, -940.000000)">
+            <g id="guidelines" transform="translate(255.000000, 312.000000)">
+                <g id="designated-trails" transform="translate(65.000000, 628.000000)">
+                    <g id="plant_icon" transform="translate(0.000000, 1.000000)">
+                        <ellipse id="Oval" stroke="#79D274" stroke-width="3" cx="24.9674902" cy="25.5" rx="24.9674902" ry="25"></ellipse>
+                        <g id="sprout-(1)-copy" transform="translate(7.967490, 13.441176)" fill="#67CB61" fill-rule="nonzero">
+                            <path d="M14.6,11.3197898 C12.2,3.51978985 0,5.31978985 0,5.31978985 C0,5.31978985 0.4,20.9197898 11.8,18.5197898 C11,12.7197898 8,11.1197898 8,11.1197898 C13.6,11.1197898 14,17.9197898 14,17.9197898 L14,27.1197898 C14.6,27.1197898 15.4,27.1197898 16,27.1197898 C16.6,27.1197898 17.4,27.1197898 18,27.1197898 L18,18.7197898 C18,18.7197898 18,10.9197898 24,8.91978985 C24,8.91978985 20,14.9197898 20,18.9197898 C34,20.3197898 34,1.11978985 34,1.11978985 C34,1.11978985 16.2,-0.880210154 14.6,11.3197898 Z" id="Path"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
