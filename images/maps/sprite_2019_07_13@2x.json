@@ -3,7 +3,7 @@
     "height": 32,
     "pixelRatio": 2,
     "width": 32,
-    "x": 0,
+    "x": 76,
     "y": 192
   },
   "att": {
@@ -18,160 +18,174 @@
     "pixelRatio": 2,
     "width": 16,
     "x": 84,
-    "y": 224
+    "y": 226
   },
   "blm_bg": {
     "height": 16,
     "pixelRatio": 2,
     "width": 16,
     "x": 100,
-    "y": 224
+    "y": 226
   },
-  "casino": {
+  "cabelas": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 48,
     "y": 0
   },
-  "cracker_barrel": {
+  "casino": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 0,
+    "y": 48
+  },
+  "cracker_barrel": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 48,
     "y": 48
   },
   "default": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 48,
-    "y": 48
+    "x": 96,
+    "y": 0
+  },
+  "drop_pin": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 144,
+    "y": 0
   },
   "dump": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 96,
-    "y": 0
+    "y": 48
   },
   "empty": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 144,
-    "y": 0
+    "y": 48
   },
   "free": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 96,
-    "y": 48
+    "x": 0,
+    "y": 96
   },
   "free_reviewless": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 144,
-    "y": 48
+    "x": 48,
+    "y": 96
   },
   "gas": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 0,
+    "x": 96,
     "y": 96
   },
   "groceries": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 48,
+    "x": 144,
     "y": 96
   },
   "low_clearance": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 96,
-    "y": 96
-  },
-  "other": {
-    "height": 48,
-    "pixelRatio": 2,
-    "width": 48,
-    "x": 144,
-    "y": 96
-  },
-  "paid": {
-    "height": 48,
-    "pixelRatio": 2,
-    "width": 48,
     "x": 0,
     "y": 144
   },
-  "paid_reviewless": {
+  "other": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 48,
     "y": 144
   },
-  "propane": {
+  "paid": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 96,
     "y": 144
   },
-  "recycle": {
+  "paid_reviewless": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 144,
     "y": 144
   },
-  "rest_area": {
+  "propane": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 192,
     "y": 0
   },
-  "search": {
+  "recycle": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 240,
     "y": 0
   },
-  "shower": {
+  "rest_area": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 288,
     "y": 0
   },
-  "sprint": {
+  "search": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 336,
     "y": 0
   },
+  "shower": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 192,
+    "y": 48
+  },
+  "sprint": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 240,
+    "y": 48
+  },
   "sprint_bg": {
     "height": 16,
     "pixelRatio": 2,
     "width": 16,
     "x": 116,
-    "y": 224
+    "y": 226
   },
   "tmobile": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 192,
+    "x": 288,
     "y": 48
   },
   "tmobile_bg": {
@@ -179,97 +193,97 @@
     "pixelRatio": 2,
     "width": 16,
     "x": 132,
-    "y": 224
+    "y": 226
   },
   "trash": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 240,
+    "x": 336,
     "y": 48
   },
   "truck_stop": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 288,
-    "y": 48
+    "x": 192,
+    "y": 96
   },
   "us-highway_1": {
     "height": 34,
     "pixelRatio": 2,
     "width": 34,
-    "x": 336,
-    "y": 96
+    "x": 240,
+    "y": 144
   },
   "us-highway_2": {
     "height": 34,
     "pixelRatio": 2,
     "width": 34,
-    "x": 192,
+    "x": 274,
     "y": 144
   },
   "us-highway_3": {
     "height": 34,
     "pixelRatio": 2,
     "width": 42,
-    "x": 226,
+    "x": 308,
     "y": 144
   },
   "us-interstate_1": {
     "height": 34,
     "pixelRatio": 2,
     "width": 34,
-    "x": 268,
+    "x": 350,
     "y": 144
   },
   "us-interstate_2": {
     "height": 34,
     "pixelRatio": 2,
     "width": 34,
-    "x": 302,
-    "y": 144
+    "x": 0,
+    "y": 192
   },
   "us-interstate_3": {
     "height": 34,
     "pixelRatio": 2,
     "width": 42,
-    "x": 336,
-    "y": 144
+    "x": 34,
+    "y": 192
   },
   "us-state_1": {
     "height": 28,
     "pixelRatio": 2,
     "width": 34,
-    "x": 32,
+    "x": 108,
     "y": 192
   },
   "us-state_2": {
     "height": 28,
     "pixelRatio": 2,
     "width": 44,
-    "x": 66,
+    "x": 142,
     "y": 192
   },
   "us-state_3": {
     "height": 28,
     "pixelRatio": 2,
     "width": 54,
-    "x": 110,
+    "x": 186,
     "y": 192
   },
   "us-state_4": {
     "height": 28,
     "pixelRatio": 2,
     "width": 64,
-    "x": 164,
+    "x": 240,
     "y": 192
   },
   "us-state_5": {
     "height": 28,
     "pixelRatio": 2,
     "width": 74,
-    "x": 228,
+    "x": 304,
     "y": 192
   },
   "us-state_6": {
@@ -277,48 +291,48 @@
     "pixelRatio": 2,
     "width": 84,
     "x": 0,
-    "y": 224
+    "y": 226
   },
   "usfs_bg": {
     "height": 16,
     "pixelRatio": 2,
     "width": 16,
     "x": 148,
-    "y": 224
+    "y": 226
   },
   "verizon": {
-    "height": 48,
-    "pixelRatio": 2,
-    "width": 48,
-    "x": 336,
-    "y": 48
-  },
-  "verizon_bg": {
-    "height": 16,
-    "pixelRatio": 2,
-    "width": 16,
-    "x": 164,
-    "y": 224
-  },
-  "walmart": {
-    "height": 48,
-    "pixelRatio": 2,
-    "width": 48,
-    "x": 192,
-    "y": 96
-  },
-  "water": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 240,
     "y": 96
   },
-  "wildfire": {
+  "verizon_bg": {
+    "height": 16,
+    "pixelRatio": 2,
+    "width": 16,
+    "x": 164,
+    "y": 226
+  },
+  "walmart": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 288,
     "y": 96
+  },
+  "water": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 336,
+    "y": 96
+  },
+  "wildfire": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 192,
+    "y": 144
   }
 }

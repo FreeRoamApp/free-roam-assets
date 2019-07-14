@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>drop_pin</title>
+    <desc>Created with Sketch.</desc>
+    <g id="drop_pin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(3.500000, 3.500000)">
+            <circle id="Oval" stroke="#FFFFFF" fill="#9B9B9B" cx="8.5" cy="8.5" r="8.5"></circle>
+            <path d="M8.5,8.225 C7.74060847,8.225 7.125,7.60939153 7.125,6.85 C7.125,6.48532733 7.26986566,6.1355907 7.52772818,5.87772818 C7.7855907,5.61986566 8.13532733,5.475 8.5,5.475 C9.25939153,5.475 9.875,6.09060847 9.875,6.85 C9.875,7.21467267 9.73013434,7.5644093 9.47227182,7.82227182 C9.2144093,8.08013434 8.86467267,8.225 8.5,8.225 L8.5,8.225 Z M8.5,3 C6.37370371,3 4.65,4.72370371 4.65,6.85 C4.65,9.7375 8.5,14 8.5,14 C8.5,14 12.35,9.7375 12.35,6.85 C12.35,4.72370371 10.6262963,3 8.5,3 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
