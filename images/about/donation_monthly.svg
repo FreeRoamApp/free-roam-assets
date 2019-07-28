@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="173px" height="173px" viewBox="0 0 173 173" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>donation_monthly</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="8.66600434%" y1="0%" x2="90.0740607%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#02BF8F" offset="0%"></stop>
+            <stop stop-color="#11C2E9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="8.84212428%" y1="0%" x2="90.8056358%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FF416C" offset="0%"></stop>
+            <stop stop-color="#FF4B2C" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-3" cx="87" cy="86.5" r="86.5"></circle>
+    </defs>
+    <g id="About-/-Roam-with-care" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Donation-Monthly" transform="translate(-21.000000, -21.000000)">
+            <g id="donation_monthly" transform="translate(20.500000, 21.000000)">
+                <g id="Oval">
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                    <use fill="url(#linearGradient-2)" xlink:href="#path-3"></use>
+                </g>
+                <path d="M87.0000027,129.135075 L91.0446991,125.453013 C108.544126,109.5846 114.881729,103.475816 120.83362,96.1940875 C127.961319,87.4738402 131.241627,80.1377622 131.241627,72.5874521 C131.241627,60.0297685 121.479089,50.2795572 108.933732,50.2795572 C101.922033,50.2795572 94.9775302,53.5323307 90.414756,58.8485905 L87,62.8272512 L83.585244,58.8485905 C79.0224698,53.5323307 72.0779673,50.2795572 65.0662679,50.2795572 C52.5209107,50.2795572 42.758373,60.0297685 42.758373,72.5874521 C42.758373,80.1377622 46.0386809,87.4738402 53.1663796,96.1940875 C59.1182709,103.475816 65.455874,109.5846 82.9617755,125.458895 L87.0000027,129.135075 Z" id="Path" stroke="#FFFFFF" stroke-width="9" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
