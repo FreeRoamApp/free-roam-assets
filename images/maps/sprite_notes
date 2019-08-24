@@ -2,5 +2,5 @@ nvm use lts/carbon (need node 8)
 npm install -g @mapbox/spritezero-cli
 
 in images/maps dir, run (update w/ cur date to avoid cache issues)
-spritezero sprite_2019_08_23 ./sprite_svgs
-spritezero sprite_2019_08_23@2x ./sprite_svgs --retina
+spritezero sprite_2019_08_24 ./sprite_svgs
+spritezero sprite_2019_08_24@2x ./sprite_svgs --retina
